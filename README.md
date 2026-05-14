@@ -27,6 +27,3 @@ The dashboard provides a clear view of sales trends, product performance, and re
 * Google Sheets
 * Pivot Tables
 * Data Visualization
-
-![Dashboard](dashboard.png)
-
